@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "capi": "http://localhost:4646/mod.ts"
+  }
+}
