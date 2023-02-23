@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "capi": "http://localhost:4646/mod.ts",
+    "ramda": "https://cdn.skypack.dev/ramda@0.27.1",
+    "vite_plugin_deno_resolve": "https://deno.land/x/vite_plugin_deno_resolve/mod.ts"
+  }
+}
